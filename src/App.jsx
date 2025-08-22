@@ -2,7 +2,6 @@ import React from "react";
 import "./App.css";
 import Slider from "./slider logic/ImageCompare"
 
-import Img1 from "./assets/section1.png"
 import Img2 from "./assets/section2.png"
 import Img3 from "./assets/section3.gif"
 import Img4 from "./assets/section4.jpg"
