@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./ImageCompare.css";
-import ImgA from "../assets/a.png";
-import ImgB from "../assets/b.png";
+import ImgA from "../assets/A.png";
+import ImgB from "../assets/B.png";
 
 export default function ImageCompare() {
   const [position, setPosition] = useState(50); // start in the middle
